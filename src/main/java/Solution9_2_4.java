@@ -1,5 +1,5 @@
 public class Solution9_2_4 {
-
+/*test*/
     public static void main(String[] args) {
         int stackTraceLength = method1().length - method10().length + 1;
     }
