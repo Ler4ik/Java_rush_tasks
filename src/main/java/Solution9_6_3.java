@@ -5,7 +5,7 @@ public class Solution9_6_3 {
             int[] m = new int[2];
             m[8] = 5;
         }
-        catch(IndexOutOfBoundsException e){
+        catch(ArrayIndexOutOfBoundsException e){
             System.out.println(e.getClass());
         }
     }
