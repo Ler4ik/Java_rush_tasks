@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Solution9_11_5 {
 
-    public static char[] vowels = new char[]{'а', 'я', 'у', 'ю', 'и', 'ы', 'э', 'е', 'о', 'ё'};
+    public static char[] vowels = new char[]{'e'};
 
     public static void main(String[] args) throws Exception {
         String str = (new BufferedReader(new InputStreamReader(System.in))).readLine().replace(" ", "");
