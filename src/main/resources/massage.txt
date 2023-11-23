@@ -1,0 +1,15 @@
+taskUid      11fb9743-52da-421d-bc59-4c1e473d4921
+reportType orders-journal
+sender         iabs-rr-gateway
+messageUid  21fb9743-52da-421d-bc59-4c1e473d4811
+type           CREATE
+
+{"dateFrom":"2020-02-21T00:00:00","dateTo":"2023-02-28T23:59:59"}
+{"numbers":["777/2023-09-12", "666/2023-09-12"]}
+{"mdmIds":[123456,987654]}
+{"agreementNumbers":["777/2023-09-12", "666/2023-09-12"]}
+{"subaccountNumbers":["777/2023-09-12", "666/2023-09-12"]}
+{"typeIds":[0,23]}
+{"statusIds":[89898,555555]}
+{"methodIds":[89898,555555]}
+{"employeeIds":["Сашка", "luchshii"]}
